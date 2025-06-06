@@ -12,5 +12,10 @@
     {
       "summary": "First day of school Aug 12",
       "description": "first day of school is on august 12"
+    },
+    { 
+        "summary": "Math tutor starting tommorrow",
+        "description": "Math tutor starting tommorrow",
+        "priority": "medium"
     }
   ]
